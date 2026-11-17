@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    color: darkblue;
+}
+
+h1 {
+    color: white;
+    background-color: navy;
+    text-align: center;
+    padding: 20px;
+}
+
+p {
+    font-size: 18px;
+    margin: 15px;
+}
+
+ul {
+    background-color: white;
+    padding: 25px;
+    border: 2px solid navy;
+}
+
+a {
+    color: red;
+    font-size: 18px;
+}
